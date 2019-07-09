@@ -223,7 +223,7 @@ svg.radial-progress:nth-of-type(6n+1) circle { stroke: #1795c5; }
 	Secondery text color
  =====================*/
 .text-secondry {
-    color: #2d3239;
+    color: #000000;
 }
 .overlay-primary-light:after, 
 .overlay-primary-middle:after, 
