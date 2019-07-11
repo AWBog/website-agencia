@@ -15,7 +15,7 @@ body {
     font-smoothing: antialiased;
 }
 a {
-    color: #000000;
+    color: #6f6f6f;
     outline: 0 none;
     text-decoration: none;
 }
@@ -1132,7 +1132,7 @@ dl dd {
     color: #1795c5;
 }
 .text-green{
-    color: #3eb006;
+    color: #75cd0a;
 }
 .text-orange{
     color: #ef9800;
@@ -1214,13 +1214,13 @@ dl dd {
 	background-color:rgba(255,255,255,0.9)
 }
 /* Tb Black */
-.bg-tpb1{justify
-	backgjustify
+.bg-tpb1{
+	background-color:rgba(0,0,0,0.05)
 }
-.bg-tpb2{justify
-	backgjustify
+.bg-tpb2{
+	background-color:rgba(0,0,0,0.2)
 }
-.bg-tpb3{justify
+.bg-tpb3{
 	background-color:rgba(0,0,0,0.3)
 }
 .bg-tpb4{
